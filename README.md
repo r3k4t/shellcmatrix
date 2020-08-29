@@ -44,7 +44,7 @@ sudo ./shellcmatrix.sh
 <li>Black</li>
 <li>Cyan</li>
 <li>Blue</li>
-<li>Magenta<li>
+<li>Magenta</li>
 </ul>
 
 ### Screenshots ###
